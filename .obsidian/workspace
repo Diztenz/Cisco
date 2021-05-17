@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "573657fb81689b7c",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2991dd8e9c1dc46",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Clients and Servers.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7360f839b969a764",
+    "type": "split",
+    "children": [
+      {
+        "id": "63c9b17bff5e6a88",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96dd6c53b3045891",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b5c8440a13555053",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 100
+  },
+  "right": {
+    "id": "e0dc9febcadb9542",
+    "type": "split",
+    "children": [
+      {
+        "id": "c97bb2fea8013044",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "38db65806ce1f45d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Clients and Servers.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e2991dd8e9c1dc46",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Internetwork.md"
+  ]
+}
